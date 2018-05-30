@@ -18,9 +18,10 @@ Vue-like Developer Experience for UI Development Enviroment!
   - action
   - snapshot test
   - property designer
-- `playbox` (a.k.a in Storybook)
-    - SFC-like (`.vue` or `.play`), first priority
-    - Code
+- `playbox` (a.k.a `story` at Storybook)
+    - SFC-like (`.vue` or `.play`) component, first priority
+    - JavaScript
+    - Nuxt-like `playbox` grouping
 - Storybook `story` importing
 - Stand-alone, Static site building
 - Vue CLI integration
