@@ -7,9 +7,9 @@ The Next UI Development Enviroment for Vue.js
 ## :dizzy: Concept
 Vue-like Developer Experience for UI Development Enviroment!
 
-- More fun
-- More easy
-- More anyone usage
+- More fun !
+- More easy !!
+- More simple !!!
 
 ## :star: Features
 - Basic UI demonstrating
